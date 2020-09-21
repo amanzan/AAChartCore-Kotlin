@@ -27,8 +27,8 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.BasicContent
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.CustomStyleChartComposer
 import com.aachartmodel.aainfographics.R
 import com.bravo.aachartkitkotlin.AAChartCreator.AAChartModel

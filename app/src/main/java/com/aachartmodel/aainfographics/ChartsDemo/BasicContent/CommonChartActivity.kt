@@ -27,16 +27,17 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.BasicContent
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.CompoundButton
 import android.widget.RadioGroup
 import android.widget.Switch
+import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.R
 import com.bravo.aachartkitkotlin.AAChartCreator.AAMoveOverEventMessageModel
 import com.bravo.aachartkitkotlin.AAChartCreator.*
 import com.google.gson.Gson
+import kotlinx.android.synthetic.main.activity_common_chart.*
 
 class CommonChartActivity : AppCompatActivity(), RadioGroup.OnCheckedChangeListener,
     CompoundButton.OnCheckedChangeListener, AAChartView.AAChartViewCallBack {

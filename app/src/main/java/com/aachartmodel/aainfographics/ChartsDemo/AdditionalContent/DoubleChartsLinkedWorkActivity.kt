@@ -3,7 +3,7 @@ package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.bravo.aachartkitkotlin.AAChartCreator.*
 import com.bravo.aachartkitkotlin.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.R

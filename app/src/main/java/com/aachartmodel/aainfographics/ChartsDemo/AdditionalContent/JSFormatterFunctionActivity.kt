@@ -27,8 +27,8 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bravo.aachartkitkotlin.AAChartCreator.AAChartView
 import com.bravo.aachartkitkotlin.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.CustomTooltipComposer.Companion.customAreaChartTooltipStyleWithFormatterFunction1

@@ -35,9 +35,9 @@ package com.bravo.aachartkitkotlin.AAChartCreator
 
 import android.content.Context
 import android.os.Build
-import android.support.v7.app.AlertDialog
 import android.util.AttributeSet
 import android.webkit.*
+import androidx.appcompat.app.AlertDialog
 import com.bravo.aachartkitkotlin.AAOptionsModel.AAOptions
 import com.google.gson.Gson
 import com.google.gson.internal.LinkedTreeMap
