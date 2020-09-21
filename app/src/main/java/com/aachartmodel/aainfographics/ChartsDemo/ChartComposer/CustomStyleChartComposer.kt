@@ -27,10 +27,9 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAShadow
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.*
-import java.util.*
+import com.bravo.aachartkitkotlin.AAChartCreator.*
+import com.bravo.aachartkitkotlin.AAChartCreator.AAShadow
+import com.bravo.aachartkitkotlin.AAOptionsModel.*
 
 class CustomStyleChartComposer  {
 

@@ -27,11 +27,11 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AADataLabels
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAStyle
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AATooltip
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAWaterfall
+import com.bravo.aachartkitkotlin.AAChartCreator.*
+import com.bravo.aachartkitkotlin.AAOptionsModel.AADataLabels
+import com.bravo.aachartkitkotlin.AAOptionsModel.AAStyle
+import com.bravo.aachartkitkotlin.AAOptionsModel.AATooltip
+import com.bravo.aachartkitkotlin.AAOptionsModel.AAWaterfall
 import java.util.*
 
 object SpecialChartComposer{

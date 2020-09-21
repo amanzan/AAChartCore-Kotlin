@@ -80,7 +80,7 @@ You're all set, enjoy!
 
 1. Create the instance object of chart view:`AAChartView`
 ```xml
-         <com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAChartView
+         <com.bravo.aachartkitkotlin.AAChartCreator.AAChartView
         android:id="@+id/AAChartView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -31,8 +31,8 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.CustomStyleChartComposer
 import com.aachartmodel.aainfographics.R
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAChartModel
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAChartView
+import com.bravo.aachartkitkotlin.AAChartCreator.AAChartModel
+import com.bravo.aachartkitkotlin.AAChartCreator.AAChartView
 
 class CustomStyleChartActivity : AppCompatActivity() {
 

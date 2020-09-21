@@ -34,10 +34,9 @@ import android.widget.CompoundButton
 import android.widget.RadioGroup
 import android.widget.Switch
 import com.aachartmodel.aainfographics.R
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAMoveOverEventMessageModel
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
+import com.bravo.aachartkitkotlin.AAChartCreator.AAMoveOverEventMessageModel
+import com.bravo.aachartkitkotlin.AAChartCreator.*
 import com.google.gson.Gson
-import kotlinx.android.synthetic.main.activity_common_chart.*
 
 class CommonChartActivity : AppCompatActivity(), RadioGroup.OnCheckedChangeListener,
     CompoundButton.OnCheckedChangeListener, AAChartView.AAChartViewCallBack {

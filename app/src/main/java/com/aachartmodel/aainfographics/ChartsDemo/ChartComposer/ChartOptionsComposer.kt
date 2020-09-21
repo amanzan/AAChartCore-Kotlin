@@ -35,8 +35,8 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.*
+import com.bravo.aachartkitkotlin.AAChartCreator.*
+import com.bravo.aachartkitkotlin.AAOptionsModel.*
 
 class ChartOptionsComposer {
     companion object {
